@@ -6,7 +6,7 @@
     <version>3.2.0</version>
     <packaging>pom</packaging>
 
-    <name>renren-security1</name>
+    <name>renren-security</name>
     <url>http://www.renren.io</url>
 
 	<parent>
